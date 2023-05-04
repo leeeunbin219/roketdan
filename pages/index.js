@@ -11,13 +11,13 @@ export default function Home() {
     <div className="container">
       <Image src={bgimg} width={900} className="bgimg" />
       <div className="img1">
-        <Link href={`http://variablemaker.kr/`} passHref>
+        <Link href={`http://variablemaker.com/`} passHref>
           <Image src={roi} height={600} width={300} />
         </Link>
       </div>
       <div className="img2">
         <Link href={`https://www.neokkukae.store/`} passHref>
-          <Image src={naong} height={200} width={200} />
+          <Image src={naong} height={200} width={170} />
         </Link>
       </div>
       <div className="img3">
